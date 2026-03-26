@@ -18,7 +18,4 @@ Thasleem Firdaus.K
 
 ## Output
 ![Output]()
-![Output]()
-![Output]()
-![Output]()
-![Output]()
+

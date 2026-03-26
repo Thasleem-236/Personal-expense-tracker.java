@@ -3,12 +3,12 @@
 This project is a simple Command Line Personal Expense Tracker developed using Java. It helps users manage their daily expenses by recording, viewing, and organizing financial transactions.
 
 ## Features
-Add new expense
-View all expenses
-Delete an expense
-Categorize expenses (Food, Travel, Bills, etc.)
-Calculate total spending
-View expense history
+- Add new expense
+- View all expenses
+- calculte total expense
+- search by Category (Food, Travel, Bills, etc.)
+- monthly expense summary
+- exit
 
 ## Language Used
 Java

@@ -18,4 +18,7 @@ Thasleem Firdaus.K
 
 ## Output
 ![Output](https://github.com/Thasleem-236/Personal-expense-tracker.java/blob/4746342a4ac7a5aaf49cd368bbd648bea3205c0d/test1.png)
-
+![Output]
+![Output]
+![Output]
+![Output]
